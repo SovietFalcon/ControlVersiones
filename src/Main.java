@@ -11,7 +11,6 @@ public class Main {
 
         System.out.println("Hola desde la modificación 2");
 
-        System.out.println("lol test");
     }
 
 }
